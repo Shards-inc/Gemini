@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Gemini Ultimate Chat Interface",
+  "description": "A professional chat interface for Google Gemini with advanced features including multimodal input, intelligence controls, and specialized studio capabilities for tasks like deep research, image editing, and video creation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
